@@ -1,0 +1,1 @@
+ALTER TABLE "cars" DROP TABLE "owner_username";

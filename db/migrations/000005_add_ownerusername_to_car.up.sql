@@ -1,0 +1,1 @@
+ALTER TABLE "cars" ADD COLUMN owner_username VARCHAR NOT NULL ;

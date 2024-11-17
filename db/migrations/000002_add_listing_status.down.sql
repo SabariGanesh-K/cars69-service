@@ -1,0 +1,1 @@
+ALTER TABLE CARS DROP COLUMN "listing_status";
