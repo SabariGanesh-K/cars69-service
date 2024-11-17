@@ -1,7 +1,8 @@
 # Go lang server [Gin]
 
 Uses Go lang  Gin framework  .
-The client  is present at https://github.com/SabariGanesh-K/cars69-client
+
+The client frontend with deployment link  is present at https://github.com/SabariGanesh-K/cars69-client
 
 ## Development server
 
